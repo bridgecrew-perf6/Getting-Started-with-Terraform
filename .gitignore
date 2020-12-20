@@ -1,6 +1,6 @@
 terraform.tfvars
 *.terraform
 .terraform.lock.hcl
-test.tfplan
+*.tfplan
 terraform.tfstate.backup
 terraform.tfstate
